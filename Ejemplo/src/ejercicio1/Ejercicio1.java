@@ -6,6 +6,8 @@ public class Ejercicio1 {
 		// TODO Auto-generated method stub	
 		System.out.print("Hola que tal");
 		System.out.print("Adios que tal");
+		
+		//cambio de la rama nueva
 	}
 
 }
